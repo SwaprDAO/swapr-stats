@@ -1,4 +1,4 @@
-<img src="./assets/swapr-logo.png" alt="Swapr" title="Swapr" align="right" height="30" />
+<img src="./src/assets/swapr-logo.png" alt="Swapr" title="Swapr" align="right" height="30" />
 
 # Swapr Stats
 
